@@ -73,7 +73,7 @@
     "yargs-unparser": "2.0.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
     "@babel/eslint-parser": "^7.19.1",
     "@mocha/docdash": "^4.0.1",
